@@ -4,10 +4,17 @@
 <meta charset=utf-8>
 <title>Squid Website</title>
 </head>
-    <body>
+    <body id="mainpagebody">
         <p>This is my website</p>
+        <a href="RatCollection.html"> RATS! </a>
+        <br>
+        <div id="backgroundpicker">
+            <form>
+                <input type="color" id='backgroundcolorform'/> 
+                <button type="submit" onclick="changebackground()">Apply Color</button>
+            </form>
+        </div>
     </body>
-    <a href="RatCollection.html">
-        RATS!
-    </a>
+    <script src="scripts/backgroundtrolling.js"></script>
+    <script src="scripts/setpagebackground.js"></script>
 </html>

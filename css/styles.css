@@ -1,3 +1,14 @@
+/* Tag Selector */
+
+/*
+p {
+    color: #eb9834;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+}
+*/
+
+/* Class Selectors */
 .formattedHeadder {text-align: center;
     color: #eb9834;
     font-family: "Comic Sans MS", cursive, sans-serif;
@@ -38,4 +49,11 @@
 .OMGSCHeader {text-align: center;
     color: #094891;
     font-size: 30px;
+}
+
+/* ID Selectors */
+#backgroundpicker {
+    text-align: center;
+    border: 1px solid black;
+    padding: 8px;
 }
