@@ -46,3 +46,9 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.link-container {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 20px;
+}
