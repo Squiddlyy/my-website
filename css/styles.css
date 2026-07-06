@@ -4,47 +4,50 @@
     font-size: 50px;
 }
 .VRHeader {text-align: center;
-    color: #c545ba;
+    color: #FF48AB;
     font-size: 40px;
 }
 .RHeader {text-align: center;
-    color: #b61212;
+    color: #F62E2E;
     font-size: 40px;
 }
 .EUCHeader {text-align: center;
-    color: #cf7f3e;
+    color: #F9A01F;
     font-size: 40px;
 }
 .VUCHeader {text-align: center;
-    color: #e9ca1a;
+    color: #FFEA35;
     font-size: 40px;
 }
 .UCHeader {text-align: center;
-    color: #a2d134;
+    color: #BDE743;
     font-size: 40px;
 }
 .CHeader {text-align: center;
-    color: #0dd82f;
+    color: #45CC56;
     font-size: 40px;
 }
 .VCHeader {text-align: center;
-    color: #35e0ca;
+    color: #25D0BD;
     font-size: 40px;
 }
 .ECHeader {text-align: center;
-    color: #4f9fe9;
+    color: #23B7F2;
     font-size: 40px;
 }
 .OMGSCHeader {text-align: center;
-    color: #094891;
+    color: #4063CA;
     font-size: 40px;
 }
 .OMGSRHeader {text-align: center;
-    color: #682662;
     font-size: 40px;
-    background: -webkit-linear-gradient(#5976d4, #5976d4, #21b4a1, #84c54e, #d39614, #8a0468, #8a0468);
+    background: -webkit-linear-gradient(#476CEC, #476CEC, #22C3C5, #C5CB37, #fd8c20, #ED1E7E, #ED1E7E);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+.ERHeader {text-align: center;
+    color: #B805D5;
+    font-size: 40px;
 }
 .link-container {
     display: flex;
